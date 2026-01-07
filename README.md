@@ -86,14 +86,3 @@ For Customer Module: `http://localhost:8020/`
 ![admin-view](https://github.com/shivamverma26/Ecommerce_SpringBoot/assets/94590743/0f2d2c1a-a1f6-4d0c-bbaf-560612a76e76)
 
 
-
-
-
-## 🚀 About Me
-With an insatiable appetite for innovation and a fervent dedication to mastering the art of technology, I journey through the digital landscape with boundless passion
-## 🔗 Social Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamverma61/)
-[![verma.shivam2605@gmail.com](https://img.shields.io/badge/gmail-4267B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verma.shivam2605@gmail.com)
-
-## License
-[MIT License](/LICENSE)
